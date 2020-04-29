@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Номера карт менее 16 символов](https://github.com/agasferon/JQA_task1.1/issues/1#issue-608693640)
-* [Номера карт более 16 символов](https://github.com/agasferon/JQA_task1.1/issues/2#issue-608694538)
+* [Номера карт менее 16 символов](https://github.com/agasferon/JQA_task1.2/issues/1#issue-609024039)
+* [Номера карт более 16 символов](https://github.com/agasferon/JQA_task1.2/issues/2#issue-609025059)
 
 ## Описание процесса тестирования
 
@@ -18,8 +18,8 @@
 1. Код запускался на исполнение
 
 ## В процессе тестирования использовались следующие артефакты:
-* [Исходный код CardNauValid.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
-* [Список номеров карт для проверки](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* [Исходный код CardNauValid.class](https://github.com/agasferon/JQA_task1.2/blob/master/CardNumValid.class.md)
+* [Список номеров карт для проверки](https://github.com/agasferon/JQA_task1.2/blob/master/CardNumList.md)
 
 Тестирование производилось в следующем окружении:
 * Windows 10 1903 18362.778
